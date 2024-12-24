@@ -49,15 +49,6 @@ Movies recommended for User 2 based on hybrid approach: ['Movie 1', 'Movie 2', '
 - To provide a specific movie for content-based filtering, set the `movie_title` parameter in the `hybrid_recommend_movies` function.
 - Adjust the number of recommendations (`n`) as needed.
 
-## File Structure
-
-```
-recommendation-systems/
-├── data/                   # Dataset files (not included in repo)
-├── recommendation_system_with_tags.py   # Main script for the hybrid recommendation system
-├── README.md               # Project documentation
-└── requirements.txt        # Python dependencies
-```
 
 ## Requirements
 
