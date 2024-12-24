@@ -16,7 +16,7 @@ The recommendation system uses the following datasets:
 2. **ratings.csv**: Contains user ratings for movies.
 3. **tags.csv**: Contains user-assigned tags for movies.
 
-You can download the datasets from [MovieLens](https://grouplens.org/datasets/movielens/).
+You can use the sample data from the data folder or use any other dataset from different sources
 
 ## Installation
 
